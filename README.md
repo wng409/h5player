@@ -2,7 +2,6 @@
 
 一个功能丰富、界面美观的现代化 HTML5 视频播放器，支持本地视频播放和在线视频流媒体播放。
 
-https://via.placeholder.com/800x400/1a2a6c/ffffff?text=HTML5+Video+Player
 
 ✨ 主要功能
 
